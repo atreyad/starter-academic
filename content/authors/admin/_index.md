@@ -18,7 +18,7 @@ organizations:
   url: "https://www.business-school.ed.ac.uk/phd-profile/atreya-dey"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include climate finance, asset pricing, machine learning, and economics.
+bio: My research interests include climate change, asset pricing, machine learning, finance, and economics.
 
 interests:
 - Climate Change
