@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Financial Technology
-    institution: University of Edinburgh
+    institution: University of Edinburgh Business School
     year: 2024 Expected
   - course: MSc in Data Science
     institution: Northwestern University
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:atreya.dey@ed.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/atreyadey
