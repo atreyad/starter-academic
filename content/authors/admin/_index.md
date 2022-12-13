@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Atreya's PhD focuses on how environmental risks impact asset prices and supply chain networks. His other research interest is to study how climate change impacts sovereign risk. The research merges spatial finance, econometrics, and machine learning methods.
+I am a PhD candidate in Financial Technology at the University of Edinburgh Business School and I will be on the 2023-2024 job market. 
