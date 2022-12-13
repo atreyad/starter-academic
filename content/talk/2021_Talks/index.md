@@ -1,7 +1,7 @@
 ---
-title: '2021'
-subtitle: 'Surging Sovereign Spreads: The Impact of Coastal Flooding on Sovereign Risk:'
-date: '2021'
+title: 'Surging Sovereign Spreads: The Impact of Coastal Flooding on Sovereign Risk'
+subtitle: ''
+date: '2022-01-01'
 publishDate: '2021'
 lastmod: '2021'
 ---
