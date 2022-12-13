@@ -1,11 +1,10 @@
 ---
-title: 'Presentations in 2021'
+title: '2021'
 subtitle: 'Surging Sovereign Spreads: The Impact of Coastal Flooding on Sovereign Risk:'
 date: '2021'
-publishDate: ''
-lastmod: ''
+publishDate: '2021'
+lastmod: '2021'
 ---
-
 - China International Conference in Finance
 - Financial Management Association Europe and Atlanta
 - Joint Research Centre of the European Comission on Sustainable Finance
