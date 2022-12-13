@@ -10,11 +10,10 @@ tags: []
 categories: []
 date: '2022-01-01'
 lastmod: 2022-01-03T14:54:29Z
-featured: false
-draft: true
+featured: true
+draft: false
 
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058301'
-url_slides: 'http://www.climateeconometrics.org/wp-content/uploads/2022/02/BortolanDeyTaschini_Presentation.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
