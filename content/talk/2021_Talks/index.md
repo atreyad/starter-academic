@@ -1,10 +1,8 @@
 ---
-title: '2021'
-
+title: 'Presentations in 2021'
+date: ''
+publishDate: ''
 ---
 
-Conference Presentations for Surging Sovereign Spreads: The Impact of Coastal Flooding on Sovereign Risk:
-- Climate Finance
-- Asset Pricing
-- Corporate Finance
-- Machine Learning and NLP
+## Surging Sovereign Spreads: The Impact of Coastal Flooding on Sovereign Risk:
+China International Conference in Finance, Financial Management Association Europe and Atlanta, Joint Research Centre of the European Comission on Sustainable Finance, Global Research Alliance for Sustainable Finance and Investment, GRETA Long Run Risks, Global Finance Conference, Economics of Financial Technology, Italian Association of Environmental and Resource Economics.
