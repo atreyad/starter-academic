@@ -15,6 +15,10 @@ lastmod: 2022-02-03T14:54:29Z
 featured: true
 draft: false
 
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4023755'
+url_video: 'http://www.climateeconometrics.org/wp-content/uploads/2022/02/GMT20220215-160117_Recording_1920x1080_Trim.mp4?_=5'
+url_slides: 'http://www.climateeconometrics.org/wp-content/uploads/2022/02/BortolanDeyTaschini_Presentation.pdf'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

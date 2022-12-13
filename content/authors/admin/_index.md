@@ -21,15 +21,16 @@ organizations:
 bio: My research interests include climate change, asset pricing, machine learning, finance, and economics.
 
 interests:
-- Climate Change
-- Finance
-- Economics
+- Climate Finance
+- Asset Pricing
+- Corporate Finance
+- Machine Learning and NLP
 
 education:
   courses:
   - course: PhD in Financial Technology
     institution: University of Edinburgh Business School
-    year: 2024 Expected
+    year: Expected 2024
   - course: MSc in Data Science
     institution: Northwestern University
     year: 2019
