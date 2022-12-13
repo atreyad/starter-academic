@@ -61,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: "C:/Users/Atreya/OneDrive/Documents/Professional/AtreyaDeyCV.pdf"
+  link: "https://www.dropbox.com/s/4amvicbtjz7sig3/Atreya_Dey_Academic_CV.pdf?dl=0"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
