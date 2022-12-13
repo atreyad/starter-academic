@@ -22,7 +22,7 @@ bio: My research interests include climate change, asset pricing, machine learni
 
 interests:
 - Climate Finance
-- Asset Pricing
+- Empirical Asset Pricing
 - Corporate Finance
 - Machine Learning and NLP
 
