@@ -6,7 +6,7 @@ publishDate: '2021'
 lastmod: '2021'
 image: 
   caption: ''
-  focal_point: ''
+  focal_point: 'right'
   preview_only: false
   placement: 2
 

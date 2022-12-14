@@ -7,7 +7,7 @@ lastmod: '2021'
 
 image: 
   caption: ''
-  focal_point: ''
+  focal_point: 'right'
   preview_only: true
   placement: 2
 ---
