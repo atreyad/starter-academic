@@ -7,6 +7,6 @@ lastmod: '2021'
 image: 
   caption: ''
   focal_point: 'Right'
-  preview_only: no
+  preview_only: yes
 ---
 - American Finance Association Annual Meeting.
