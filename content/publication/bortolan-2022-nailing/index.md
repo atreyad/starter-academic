@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Nailing Down Volatile Temperatures: Examining their Effects on Stock Prices'
+title: 'Nailing Down Volatile Temperatures: Examining their Effects on Asset Prices'
 subtitle: ''
 summary: ''
 authors:

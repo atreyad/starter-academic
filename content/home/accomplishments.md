@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2022-07-01"
   date_end = ""
-  description = "I organized the workshop around presentations from scholars such as Raman Uppal and Philipp Krüger"
+  description = "I obtained a  £1,500 bursary to organize a workshop around presentations from scholars such as Raman Uppal and Philipp Krüger."
 
 [[item]]
   organization = "Edinburgh College of Arts, Humanities and Social Sciences"
