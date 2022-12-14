@@ -6,8 +6,14 @@ publishDate: '2021'
 lastmod: '2021'
 image: 
   caption: ''
-  focal_point: 'Right'
+  focal_point: ''
   preview_only: false
   placement: 2
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
 ---
 - American Finance Association Annual Meeting.
