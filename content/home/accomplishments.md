@@ -29,16 +29,6 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Edinburgh College of Arts, Humanities and Social Sciences"
-  organization_url = ""
-  title = "$4,000 grant to purchase data"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-02-01"
-  date_end = ""
-  description = ""
-
-[[item]]
   organization = "University of Edinburgh Business School"
   organization_url = ""
   title = "World Class Workshop in Finance"
