@@ -18,6 +18,11 @@
   url = "#talks"
   weight = 30
 
+[[main]]
+  name = "Professional Activities & Recognition"
+  url = "#accomplishments"
+  weight = 40
+
 # [[main]]
 #    name = "Posts"
 #    url = "#posts"
