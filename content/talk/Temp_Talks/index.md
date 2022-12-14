@@ -9,7 +9,7 @@ image:
   caption: ''
   focal_point: 'right'
   preview_only: true
-  placement: 2
+  placement: 1
 ---
 - Yale Institute of Sustainable Finance Symposia,
 - European Economic Association,

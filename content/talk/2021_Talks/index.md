@@ -9,7 +9,7 @@ image:
   caption: ''
   focal_point: 'right'
   preview_only: true
-  placement: 2
+  placement: 1
 ---
 - China International Conference in Finance,
 - Financial Management Association Europe and Atlanta,
