@@ -23,7 +23,7 @@ bio: My research interests include climate change, asset pricing, machine learni
 interests:
 - Climate Finance
 - Empirical Asset Pricing
-- Corporate Finance
+- Spatial Finance
 - Machine Learning and NLP
 
 education:
@@ -34,7 +34,7 @@ education:
   - course: MSc in Data Science
     institution: Northwestern University
     year: 2019
-  - course: BA in Economics
+  - course: BA in Economics (major) and Math (minor)
     institution: Haverford College
     year: 2015
 
