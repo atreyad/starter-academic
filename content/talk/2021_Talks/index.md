@@ -4,6 +4,12 @@ subtitle: ''
 date: '2022-01-01'
 publishDate: '2021'
 lastmod: '2021'
+
+image: 
+  caption: ''
+  focal_point: ''
+  preview_only: true
+  placement: 2
 ---
 - China International Conference in Finance,
 - Financial Management Association Europe and Atlanta,

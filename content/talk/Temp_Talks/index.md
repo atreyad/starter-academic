@@ -4,6 +4,12 @@ subtitle: ''
 date: '2022-12-01'
 publishDate: '2021'
 lastmod: '2021'
+
+image: 
+  caption: ''
+  focal_point: ''
+  preview_only: true
+  placement: 2
 ---
 - Yale Institute of Sustainable Finance Symposia,
 - European Economic Association,
