@@ -1,7 +1,7 @@
 ---
 title: 'Upcoming Conferences'
 subtitle: ''
-date: '2022-12-14'
+date: '2023-10-27'
 publishDate: '2021'
 lastmod: '2021'
 image: 
@@ -16,4 +16,5 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 ---
-- American Finance Association Annual Meeting.
+- Financial Stability Workshop at the Federal Reserve in Washington DC.
+- International Business, Economics, and Finance Association at the ASSA meetings in San Antonio, TX.
