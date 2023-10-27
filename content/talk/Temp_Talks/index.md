@@ -1,7 +1,7 @@
 ---
 title: 'Nailing Down Volatile Temperatures: Examining their Effects on Stock Prices'
 subtitle: ''
-date: '2022-12-01'
+date: '2023-10-01'
 publishDate: '2021'
 lastmod: '2021'
 
@@ -11,6 +11,7 @@ image:
   preview_only: true
   placement: 1
 ---
+- Financial Management Association Chicago,
 - Yale Institute of Sustainable Finance Symposia,
 - European Economic Association,
 - Association of Environmental and Resource Economists,

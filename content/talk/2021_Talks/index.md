@@ -1,7 +1,7 @@
 ---
-title: 'Surging Sovereign Spreads: The Impact of Coastal Flooding on Sovereign Risk'
+title: 'Inattention to the Coming Storm? Rising Seas and Sovereign Credit Risk'
 subtitle: ''
-date: '2022-01-01'
+date: '2023-10-01'
 publishDate: '2021'
 lastmod: '2021'
 
@@ -13,6 +13,7 @@ image:
 ---
 - China International Conference in Finance,
 - Financial Management Association Europe and Atlanta,
+- Association of Environmental and Resource Economists at OSWEET,
 - Joint Research Centre of the European Comission on Sustainable Finance,
 - Global Research Alliance for Sustainable Finance and Investment,
 - GRETA Long Run Risks, Global Finance Conference,
