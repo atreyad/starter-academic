@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Surging Sovereign Spreads: The Impact of Coastal Flooding on Sovereign Risk'
+title: 'Inattention to the Coming Storm? Rising Seas and Sovereign Credit Risk'
 subtitle: ''
 summary: ''
 authors:
 - Atreya Dey
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2023-01-01'
 lastmod: 2022-01-03T14:54:29Z
 featured: true
 draft: false
 
-url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4058301'
+url_pdf: 'https://www.dropbox.com/scl/fi/s42mhf37t6f4r5ta6i9v1/Dey-2023-Inattention-to-the-coming-storm.pdf?rlkey=iebfb1mrywrvkpby1ythizmv5&dl=0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,6 +32,6 @@ projects: []
 publishDate: '2022-01-03T14:54:28.542056Z'
 publication_types:
 - '2'
-abstract: 'Coastal flooding, exacerbated by sea level rise, is a considerable economic threat to low-lying regions. I investigate whether investors account and insure for this hazard by exploiting the heterogeneity of country exposure to current and future coastal floods. Using sovereign credit default swap (CDS) spreads as premiums that incorporate information on credit quality and insurance demand, I document that severe coastal surge disasters increase the credit risk of affected countries across contract maturities. For a sample of 13 countries most vulnerable to short-term coastal flooding, I find a positive and significant relationship of sovereign risk to global and local attention toward physical and adaptation risks. In contrast, investors do not account for adverse future trends of flooding under climate model projections of sea levels, land subsidence, and population growth. Countries that have built protection against 1-in-100 year floods experience no increase in sovereign risk during periods of increased attention to adaptation risk. Additional tests demonstrate a positive and significant relationship between sovereign CDS trading and attention, explicitly revealing that investors purchase insurance against countries with existing flood exposure. The results suggest that sovereign risk will rise with the perception of coastal flooding, leading to increased financial pressures for exposed countries.'
+abstract: 'Coastal flooding disasters, exacerbated by future sea level rise (SLR) and population growth, are a threat to low-lying regions. Using sovereign credit default swap spreads as premiums that incorporate information on credit quality, I observe that the long-term credit risk of sovereigns exposed to ex-ante coastal flooding hazard rises by 92 basis points with a one-standard-deviation increase in media attention to climate summits. I also document that the credit market incorporates the changing vulnerability of areas, based on trends in historical population growth, into its risk assessment contemporaneously with attention. The market then shifts, in the subsequent months, to account for adverse trends in coastal flooding exposure under projections of SLR and population growth. In- and out-of-sample predictability tests imply that the market is a laggard in integrating the hazard, reflecting a behavioral inattention to climate information.'
 publication: '*Available at SSRN 4058301*'
 ---
