@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "European Finance Association"
+  organization_url = ""
+  title = "EFA travel grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-08-01"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "American Finance Association"
