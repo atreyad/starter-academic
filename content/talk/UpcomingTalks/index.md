@@ -16,5 +16,5 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 ---
-- Financial Stability Workshop at the Federal Reserve in Washington DC.
+- Financial Stability Workshop at the Federal Reserve in Washington DC. \\
 - International Business, Economics, and Finance Association at the ASSA meetings in San Antonio, TX.
