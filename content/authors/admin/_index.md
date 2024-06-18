@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: "https://www.dropbox.com/scl/fi/c8121zzw4nzkihs5nltzf/Atreya-CV.pdf?rlkey=foz83h81omvoqv59520hnxvw0&dl=0"
+  link: "https://www.dropbox.com/scl/fi/erht0kamn8mqqv1dz7bum/Dey_Academic_CV.pdf?rlkey=4kytb3n7rnth4sslbzai1jm8l&st=hqboc47g&dl=0"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Financial Technology at the University of Edinburgh Business School. 
+I am a PhD candidate in Financial Technology at the University of Edinburgh Business School and I will be on the 2024-2025 job market. With a foundation in both environmental science and economic theory, my research focuses on how evolving climatic patterns impact financial markets and corporate dynamics.
