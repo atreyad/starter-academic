@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Financial Technology
     institution: University of Edinburgh Business School
-    year: Expected 2024
+    year: Expected 2025
   - course: MSc in Data Science
     institution: Northwestern University
     year: 2019
