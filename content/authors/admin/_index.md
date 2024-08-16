@@ -73,4 +73,4 @@ user_groups:
 
 I am a PhD candidate in Financial Technology at the University of Edinburgh Business School and will be on the 2024-2025 job market. My research focuses on how evolving climatic patterns impact financial markets and corporate dynamics, with a particular interest in applying geospatial climate and environmental data.
 
-I will be a visiting scholar at the School of International and Public Affairs at Columbia University in the Fall 2024 semester. Additionally, I will present at the PRI Academic Conference in Toronto from October 7th to 10th. Say hi if you are there!
+I will be a visiting scholar at the School of International and Public Affairs at Columbia University in the Fall 2024 semester. I will also present at the PRI Academic Conference in Toronto from October 7th to 10th. Say hi if you see me!
