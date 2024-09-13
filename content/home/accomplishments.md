@@ -28,12 +28,12 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "American Finance Association"
+  organization = "American Finance Association, 2023 and 2025"
   organization_url = ""
   title = "AFA Travel Grant"
   url = ""
   certificate_url = ""
-  date_start = "2025-01-03"
+  date_start = "2024-09-03"
   date_end = ""
   description = ""
 
