@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: "https://www.dropbox.com/scl/fi/b2hmt8drwzajo6bx8ct0p/Dey_Academic_CV.pdf?rlkey=o341cr75p3ggb1pl09dwu111l&st=3m5k5kmn&dl=0"
+  link: "https://www.dropbox.com/scl/fi/6asx4cswsiq6qeehxy69e/Dey_Academic_CV-1.pdf?rlkey=ln3yfq40eefachhle9jjly485&st=440xh5i3&dl=0"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

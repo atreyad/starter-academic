@@ -18,12 +18,12 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
-  organization = "European Finance Association"
+  organization = "UN-PRI Academic Conference"
   organization_url = ""
-  title = "EFA travel grant"
+  title = "Best PhD Paper Award"
   url = ""
   certificate_url = ""
-  date_start = "2023-08-01"
+  date_start = "2024-10-01"
   date_end = ""
   description = ""
 
@@ -33,7 +33,17 @@ date_format = "Jan 2006"
   title = "AFA travel grant"
   url = ""
   certificate_url = ""
-  date_start = "2023-01-01"
+  date_start = "2023 and 2025"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "European Finance Association"
+  organization_url = ""
+  title = "EFA travel grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-08-01"
   date_end = ""
   description = ""
 
