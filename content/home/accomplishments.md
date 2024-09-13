@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   title = "AFA Travel Grant"
   url = ""
   certificate_url = ""
-  date_start = "2024-10-01"
+  date_start = "2025-01-03"
   date_end = ""
   description = ""
 
