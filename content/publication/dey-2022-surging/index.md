@@ -13,7 +13,7 @@ lastmod: 2022-01-03T14:54:29Z
 featured: true
 draft: false
 
-url_pdf: 'https://www.dropbox.com/scl/fi/s42mhf37t6f4r5ta6i9v1/Dey-2023-Inattention-to-the-coming-storm.pdf?rlkey=iebfb1mrywrvkpby1ythizmv5&dl=0'
+url_pdf: 'https://papers.ssrn.com/sol3/Delivery.cfm/4058301.pdf?abstractid=4058301&mirid=1'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,6 +32,6 @@ projects: []
 publishDate: '2022-01-03T14:54:28.542056Z'
 publication_types:
 - '2'
-abstract: 'Coastal flooding disasters, exacerbated by future sea level rise (SLR) and population growth, are a threat to low-lying regions. Using sovereign credit default swap spreads as premiums that incorporate information on credit quality, I observe that the long-term credit risk of sovereigns exposed to ex-ante coastal flooding hazard rises by 92 basis points with a one-standard-deviation increase in media attention to climate summits. I also document that the credit market incorporates the changing vulnerability of areas, based on trends in historical population growth, into its risk assessment contemporaneously with attention. The market then shifts, in the subsequent months, to account for adverse trends in coastal flooding exposure under projections of SLR and population growth. In- and out-of-sample predictability tests imply that the market is a laggard in integrating the hazard, reflecting a behavioral inattention to climate information.'
+abstract: 'This study examines whether the sovereign credit market integrates information on coastal flooding and sea level rise (SLR) hazards. Using credit default swap spreads as measures of credit quality, I find that medium-to long-term risk for sovereigns with a significant portion of their population vulnerable to ex-ante coastal flooding increases in response to climate summit news. Additionally, I document that the market asynchronously incorporates changing vulnerabilities of regions into its risk assessment with such news. In-and out-of-sample predictability tests suggest that the market lags in integrating adverse trends in exposure under projections of SLR and population growth, indicating a lack of attention to complex climate information. Finally, I demonstrate that these projections have historically been inaccurate, leading to mispricing.'
 publication: '*Available at SSRN 4058301*'
 ---

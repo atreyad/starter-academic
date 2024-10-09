@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Nailing Down Volatile Temperatures: Examining their Effects on Asset Prices'
+title: 'Volatile Temperatures and their Effects on Equity Returns and Firm Performance'
 subtitle: ''
 summary: ''
 authors:
@@ -36,6 +36,6 @@ projects: []
 publishDate: '2022-02-03T14:54:28.542056Z'
 publication_types:
 - '2'
-abstract: 'We present a statistic to generally represent extremes in the distribution of temperature anomalies and demonstrate its consequences on financial markets. The diverse shocks that our measure portrays are established to be primary drivers of electricity consumption and the weather futures market. We find that this metric is a significant factor in the cross-section of equity returns in specific industries. A spatial hedging strategy is developed to account for differentially exposed firms to temperature extremes, resulting in a large market-adjusted alpha for the least vulnerable firms. We end by explicitly investigating whether the price reaction to extreme temperatures results from firm operations or investor attention. In each step of our exercise, we contrast our measure with average temperature anomalies and demonstrate that our metric is the first-order feature.'
+abstract: 'We establish the financial materiality of temperature variability by demonstrating its impact on US firms and investors. A long-short strategy that sorts firms based on exposure earns a market-adjusted alpha of 39 basis points per month. This variability metric is related to aggregate decreases in firm profitability, with asymmetric effects across industries. These outcomes are driven by reductions in consumer demand and labor productivity coupled with changes in media and investor attention. The geographically scalable statistical framework provides a reference for assessing the quantitative effects of climate-related physical risks, offering a metric for improving the disclosure of material climate risks.'
 publication: '*Available at SSRN 4023755*'
 ---
