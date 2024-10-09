@@ -13,7 +13,7 @@ lastmod: 2022-01-03T14:54:29Z
 featured: true
 draft: false
 
-url_pdf: 'https://www.dropbox.com/scl/fi/9mp97gxloi349igellbcn/Academic_CV_Update.pdf?rlkey=9gty2w14up0foveyvunx0x0ch&st=tbexd6ep&dl=0'
+url_pdf: 'https://www.dropbox.com/scl/fi/s42mhf37t6f4r5ta6i9v1/Dey-2023-Inattention-to-the-coming-storm.pdf?rlkey=iebfb1mrywrvkpby1ythizmv5&dl=0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
